@@ -1,16 +1,21 @@
-# Greetings! 👋
+### Greeting👋
+<!--
+**rusheegopaul/RusheeGopaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-I'm a dedicated 3rd-year student pursuing Business IT & Systems at Curtin University.
+*I'm a dedicated 3rd-year student pursing Business IT & Systems at Curtin University.*
 
-**Skills**: Knowledge about SQL, HTML, CSS, Python
+*skills: Knowledge about SQL, HTML, CSS, Python*
 
-**Interests**: Passionate about Coding, AI & Machine Learning, Cybersecurity, Web Development.
+*Interest: passionate about Coding, AI & Machine Learning, cybersecurity, web development.*
 
-### Where to Find Me
+### Connect with me on different platform
+*please feel feel to reach out and connect through various channels:*
 
-<img src="https://example.com/github.png" alt="GitHub" width="20" height="20"> [GitHub](https://github.com/rusheegopaul)
-<img src="https://example.com/linkedin.png" alt="LinkedIn" width="20" height="20"> [LinkedIn](https://www.linkedin.com/in/shikha-gopaul/)
+**Email**: rusheegoapul23@gmail.com
 
-Join me in my quest for learning and technological discovery! 🚀🌟
+Github: [rusheegopaul](https://github.com/rusheegopaul)
 
+LinkedIn: [Shikha Gopaul](https://www.linkedin.com/in/shikha-gopaul-70498923a/)
 
+***Join me in my quest for learning and technological discovery! 🚀🌟***
