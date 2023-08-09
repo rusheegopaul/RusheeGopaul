@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###Gopaul Shikha
+### Business IT & Systems student at Curtin University
+### skills:  SQL, HTML, CSS, Python
+### Interest: Coding, AI & Machine Learning, cybersecurity, web development
