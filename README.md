@@ -19,5 +19,4 @@ Github: [rusheegopaul](https://github.com/rusheegopaul)
 LinkedIn: [Shikha Gopaul](https://www.linkedin.com/in/shikha-gopaul-70498923a/)
 
 ***Join me in my quest for learning and technological discovery byte-sized adventure! 🚀🌟***
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rusheegopaul&label=Profile%20views&color=0e75b6&style=flat" alt="rusheegopaul" /> </p>
