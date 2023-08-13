@@ -7,6 +7,8 @@
 
 *skills: Knowledge about SQL, HTML, CSS, Python*
 
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 *Interest: passionate about Coding, AI & Machine Learning, cybersecurity, web development.*
 
 ### Connect with me on different platform
@@ -18,5 +20,12 @@ Github: [rusheegopaul](https://github.com/rusheegopaul)
 
 LinkedIn: [Shikha Gopaul](https://www.linkedin.com/in/shikha-gopaul-70498923a/)
 
-***Join me in my quest for learning and technological discovery byte-sized adventure! 🚀🌟***
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rusheegopaul&show_icons=true&locale=en&layout=compact" alt="rusheegopaul" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rusheegopaul&show_icons=true&locale=en" alt="rusheegopaul" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusheegopaul&" alt="rusheegopaul" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusheegopaul&label=Profile%20views&color=0e75b6&style=flat" alt="rusheegopaul" /> </p>
+
+
